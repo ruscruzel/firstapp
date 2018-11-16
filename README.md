@@ -1,11 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is app in development whith Ruby On Rails
 
-Things you may want to cover:
+* url: https://miblog-rossel.herokuapp.com/
 
-* Ruby version
+* Ruby version 2.5.1
+
+* heroku
+
+* Database postgrsql
 
 * System dependencies
 
