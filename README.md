@@ -8,7 +8,7 @@ This is app in development whith Ruby On Rails
 
 * heroku
 
-* Database postgrsql
+* Database postgresql
 
 * System dependencies
 
